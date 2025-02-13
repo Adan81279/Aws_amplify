@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          Modificacion del parrafo, DSM-54
+          Modificacion del parrafo, DSM-54, QA
         </p>
       </header>
     </div>
